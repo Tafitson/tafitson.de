@@ -1,0 +1,7 @@
+{
+  "name": "tafitson.de",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
